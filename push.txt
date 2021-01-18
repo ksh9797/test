@@ -6,3 +6,4 @@ git test - push
 -branch 테스트
 - 변경사항 추가하기
 - 동시에 여러 작업 하기 (issue2)
+- 동시에 진행하기 ( issue3)
