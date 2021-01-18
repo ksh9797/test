@@ -1,1 +1,2 @@
 git test - push 
+- clone - clone 후 다시 푸시하기
